@@ -1,84 +1,89 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/localdevice/repo.me/master/assets/Banners/RepoHeader.png",
-	"tintColor": "#ffae8e",
+	"headerImage": "https://onejailbreak.com/site/assets/files/1118/newterm2.jpg",
+	"tintColor": "#0ffaac",
 	"tabs": [
 		{
-			"tabname": "Details",
+			"class": "DepictionStackView",
 			"views": [
 				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "NewTerm2",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "A powerful Terminal app for iOS on palera1n (rootful) jailbroken checkm8 devices.",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 6
+				},
+				{
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView",
+					"screenshots": [
+						{
+							"accessibilityText": "Screenshot0",
+							"url": "https://cdn.chariz.cloud/screenshot/newterm/newterm-1.png"
+						},
+						{
+							"accessibilityText": "Screenshot1",
+							"url": "https://media.idownloadblog.com/wp-content/uploads/2022/05/NewTerm-2-Root-Password-Saved.jpg"
+						},
+						{
+							"accessibilityText": "Screenshot2",
+							"url": "https://repo.cypwn.xyz/packages/NewTerm3X/NewTerm3X0.png"
+						},
+						{
+							"accessibilityText": "Screenshot3",
+							"url": "https://repo.cypwn.xyz/packages/NewTerm3X/NewTerm3X1.png"
+						}
+					]
+				},
+				{
+					"useBoldText": true,
 					"class": "DepictionMarkdownView",
-					"markdown": "## TWEAK_NAME\nSHORT_DESCRIPTION"
+					"title": "markdown-description",
+					"markdown": "This is the first package released on Menthe. You can also get it on repo.palera.in",
+					"useBottomMargin": false
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"title": "Latest Version",
-					"class": "DepictionHeaderView"
-				},
-				{
+					"text": "3.0",
 					"title": "Version",
-					"text": "VERSION_NUMBER",
 					"class": "DepictionTableTextView"
 				},
 				{
+					"text": "15-03-2023",
 					"title": "Released",
-					"text": "RELEASE_DATE",
 					"class": "DepictionTableTextView"
 				},
 				{
+					"text": "FREE",
 					"title": "Price",
-					"text": "PRICE",
 					"class": "DepictionTableTextView"
 				},
 				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"text": "Menthe | v4lex",
 					"title": "Developer",
-					"text": "DEVELOPER_NAME",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
-					"action": "WEBSITE_HERE",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Use This Template",
-					"action": "https://github.com/localdevice/repo.me",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
+					"class": "DepictionSpacerView",
+					"spacing": 8
 				}
 			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "Changelog",
-			"views": [
-				{
-					"title": "VERSION_NUMBER",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 UPDATE_DESCRIPTION",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released RELEASE_DATE</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
+			"tabname": "Details"
 		}
 	],
 	"class": "DepictionTabView"
