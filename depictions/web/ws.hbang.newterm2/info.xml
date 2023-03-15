@@ -1,0 +1,49 @@
+<package>
+	<id>ws.hbang.newterm2</id>
+	<name>NewTerm2</name>
+	<version>3.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>A powerful Terminal for palera1n rootful.</shortDescription>
+	<descriptionlist>
+		<description>A powerful Terminal app for iOS on palera1n (rootful) jailbroken checkm8 devices.</description>
+		<description>Enhance your palera1n jailbreak experience.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>newterm1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>newterm2.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>newterm3.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Release on Menthe</change>
+		<change>Specifically optimized to work on palera1n</change>
+		<change>rootful</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/__valex__/</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>
