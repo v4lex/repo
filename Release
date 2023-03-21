@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: Menthe
+Components: main
+Date: Tue, 21 Mar 2023 14:41:19 +0000
+Description: A small repo which is originally made for personal use and not always regularly kept up-to-date.
+Label: Menthe
+Origin: valex
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 936c859b5bcffcbc397caf4f6081e182             1119 Packages
+ 8a70a9776f796b0b3bcf46d9f5ea622f              737 Packages.bz2
+ 6eba2d338cc49fb54f4fea8975c85351              687 Packages.gz
+ a7279fc2d66f1af0532c0bc8266e07e7              752 Packages.xz
+ 23a7c27862c8dd0319190645a8c5c2fd              686 Packages.zst
+ 733aec5674898453b82f675305d174e0              265 Release
+SHA1:
+ 95d3098ccef7e89e1e11382bb7b68aa6abd2d9d3             1119 Packages
+ 59db8a355db059598a61ceb7b4c5812c27ef835e              737 Packages.bz2
+ ae834e4edc57c6309dce76eaf2130b7e69b94be8              687 Packages.gz
+ e64396e3adee3808653261bcf1fab20347185dff              752 Packages.xz
+ 3b729ee2e7da1d26bc81462ccfcdaff130db8f37              686 Packages.zst
+ fce887e58816602e0c774cf01824f78a072117c1              265 Release
+SHA256:
+ cf134ea6cd3a1a4de8bc43aa808e97dafcb3ac388c0a73bb0b3fc62f50fad4c3             1119 Packages
+ 5616a4f1429ca9cfd81b3772def83108eed4ad50d203fa1c4d0ccf6a2709fc31              737 Packages.bz2
+ 8f634a8facbef134da07a66d4ce3924cd6dd757ecba6a1738c68af6609bac06c              687 Packages.gz
+ 3332088d38a2164b8775b507edddfc3c981fef4e0cc2dd34e5ed6bbf2f978bd9              752 Packages.xz
+ f4d984417b1a985a715325bda9b94114ccca25c513939e5d2f1b88927927dfc4              686 Packages.zst
+ a0fd564e42d65cde861f19f4f0c74f23a10363eb16a9888aa240e7a04bf1b1e0              265 Release
+SHA512:
+ 38da259e555062c57ceebd02866e77d8310b74c2756a8eb3a86e6de2150b579858ade8626f2c461208b17f58a591e2f08b3dfe790b2e5e07aeecd3db813f9ddc             1119 Packages
+ 465f920747b54457f697f6278731215f51c697958347cd2a84697a4f5a9a05a23791de39a4817d29efdc5d8b37760b70014c8e78dc204dc800baede59446b518              737 Packages.bz2
+ a9a5dff3a9a5102e7632aab861c3eeb38913fa01f4b3c34723177cb76a072d84fbf3f3429ca71495006dcdbe8c2b7349ce8d2fbb090c44b0e1db247acfce4f92              687 Packages.gz
+ b037106fe3381e49c5f4b6d25b9f7b344aa8422574881df5461871f63a364d68e8e1b4ad4085ccd0f1c80512a51a0c6fa1288ba64a1b29791aebd03984833123              752 Packages.xz
+ e373987f103911480f0a7bae8d7c08769f2d4a6269993c721defc670ef8e738ed2c51ad904d65e8e39a628724113a04817d91d02d0b1e047e69cad30405a2f49              686 Packages.zst
+ 731539673eaace641194650797c1bf90ad1f395e27abe3d543f52f0009db7f3fc46cdc82be783a1cb732bb643a6ff4b8844bdd8af3576d75b9824115419fa6f1              265 Release
